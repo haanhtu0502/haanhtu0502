@@ -16,10 +16,11 @@ I'm a passionate **Flutter Developer** building cross-platform applications. I l
 - **Data Persistence** – Shared Preferences, SQLite, Firebase  
 - **Development Tools** – Git, GitHub, Jira, and more  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haanhtu0502&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with me  
 - [LinkedIn](www.linkedin.com/in/anh-tú-hà-b844592ab)  
 - [GitHub](https://github.com/haanhtu0502)  
-- tuha0502@gmail.com  
+- tuha0502@gmail.com
 
 Always eager to learn and contribute to open-source projects! 🚀  
