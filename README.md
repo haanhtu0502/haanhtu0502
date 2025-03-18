@@ -20,6 +20,6 @@ I'm a passionate **Flutter Developer** building cross-platform applications. I l
 ## 📫 Connect with me  
 - [LinkedIn](www.linkedin.com/in/anh-tú-hà-b844592ab)  
 - [GitHub](https://github.com/haanhtu0502)  
-- Email: tuha0502@gmail.com  
+- tuha0502@gmail.com  
 
 Always eager to learn and contribute to open-source projects! 🚀  
