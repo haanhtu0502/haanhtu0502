@@ -3,7 +3,7 @@
 I'm a passionate **Flutter Developer** building cross-platform applications. I love crafting beautiful and responsive UIs, optimizing performance, and implementing best practices in architectural patterns.  
 
 ## 🚀 What I'm Passionate About  
-- Crafting **scalable and high-performance** Flutter applications for **mobile & desktop**  
+- Crafting **scalable and high-performance** Flutter applications
 - Building **seamless and intuitive user experiences** with responsive UI/UX  
 - Architecting **maintainable and modular** code using best practices  
 - Optimizing **networking & API integrations** with efficient data handling  
