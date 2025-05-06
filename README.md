@@ -9,7 +9,7 @@ I'm a passionate **Flutter Developer** building cross-platform applications. I l
 - Optimizing **networking & API integrations** with efficient data handling  
 - Exploring **background services & system-level integrations** in Flutter  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haanhtu0502&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Connect with me  
 - [LinkedIn](www.linkedin.com/in/anh-tú-hà-b844592ab)  
